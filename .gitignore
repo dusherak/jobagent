@@ -1,0 +1,22 @@
+# Personal data never lives in this repo: it goes in ~/.jobagent (or $JOBAGENT_HOME).
+# These patterns are a safety net in case someone points JOBAGENT_HOME inside the repo.
+.jobagent/
+workspace/
+*.env
+!defaults/keys.env.example
+profile.md
+!templates/profile.md
+applications.csv
+applications/
+digests/
+data/
+state/
+*.pdf
+*.docx
+
+# environments and caches
+jobfeed/.venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

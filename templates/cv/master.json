@@ -1,0 +1,33 @@
+{
+  "_note": "Your master CV: the ONLY source of facts the tailoring step may use. Tailored CVs can reorder and reword this, never add to it. Replace the example person below with your real CV.",
+  "name": "Alex Example",
+  "contact": "+44 7000 000000 | alex@example.com | linkedin.com/in/example",
+  "address": ["1 Example Street", "London, E1 1AA"],
+  "sections": [
+    {
+      "title": "Education",
+      "entries": [
+        {"org": "University of Example", "location": "London, UK", "role": "BSc Economics and Finance — predicted First Class", "dates": "Sep 2023 – Jul 2027",
+         "bullets": ["Relevant modules: Corporate Finance (78%), Econometrics (74%), Financial Reporting (71%)"]}
+      ]
+    },
+    {
+      "title": "Experience",
+      "entries": [
+        {"org": "Example Bank", "location": "London, UK", "role": "Summer Analyst, Corporate Finance", "dates": "Jun 2025 – Aug 2025",
+         "bullets": ["Built a comparable-companies model for 12 listed peers to support a sell-side pitch",
+                     "Drafted 5 pages of a client briefing on sector M&A activity"]},
+        {"org": "Example Analytics Ltd", "location": "Remote", "role": "Data Intern", "dates": "Jul 2024 – Sep 2024",
+         "bullets": ["Cleaned and analysed a 200,000-row sales dataset in Python (pandas)"]}
+      ]
+    }
+  ],
+  "skills": [
+    {"label": "Technical", "text": "Excel (financial modelling), Python (pandas), SQL, Power BI"},
+    {"label": "Languages", "text": "English (native), Spanish (intermediate)"}
+  ],
+  "reserve": [
+    {"section": "Experience", "org": "Example Café", "location": "London, UK", "role": "Shift Supervisor", "dates": "2022 – 2023",
+     "bullets": ["Ran weekend shifts for a team of 4"], "use": "Only for client-facing or operations roles"}
+  ]
+}

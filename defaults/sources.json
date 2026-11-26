@@ -1,0 +1,219 @@
+{
+  "greenhouse": {
+    "William Blair": "williamblair",
+    "LionTree": "liontree",
+    "Lincoln International": "lincolninternational",
+    "Clearwater International": "clearwater",
+    "Credit Agricole CIB": "creditagricolecib",
+    "AlixPartners": "alixpartners",
+    "Teneo": "teneo",
+    "Charles River Associates": "charlesriverassociates",
+    "Capco": "capco",
+    "Elixirr": "elixirr",
+    "Alpha FMC": "alphafmc",
+    "Baringa": "baringa",
+    "General Atlantic": "generalatlantic",
+    "TPG": "tpgcareers",
+    "Permira": "permira",
+    "Lexington Partners": "lexingtonpartners",
+    "Man Group": "mangroup",
+    "Marshall Wace": "marshallwace",
+    "Point72": "point72",
+    "Jane Street": "janestreet",
+    "Optiver": "optiver",
+    "IMC Trading": "imc",
+    "Squarepoint Capital": "squarepointcapital",
+    "Qube Research & Technologies": "quberesearchandtechnologies",
+    "Jump Trading": "jumptrading",
+    "Flow Traders": "flowtraders",
+    "Winton": "winton",
+    "AQR": "aqr",
+    "ExodusPoint": "exoduspoint",
+    "Schonfeld": "schonfeld",
+    "Stripe": "stripe",
+    "Monzo": "monzo",
+    "GoCardless": "gocardless",
+    "Adyen": "adyen",
+    "Tide": "tide",
+    "Deliveroo": "deliveroo",
+    "Anthropic": "anthropic",
+    "Coinbase": "coinbase",
+    "KKR": "staged",
+    "Isomorphic Labs": "isomorphiclabs",
+    "Scale AI": "scaleai",
+    "AlphaSense": "alphasense",
+    "Speechmatics": "speechmatics",
+    "Maven Securities": "mavensecuritiesholdingltd"
+  },
+  "lever": {
+    "Oliver Wyman": "oliverwyman",
+    "Compass Lexecon": "compasslexecon",
+    "Apax Partners": "apax",
+    "Thoma Bravo": "thomabravo",
+    "Index Ventures": "indexventures",
+    "Zopa": "zopa",
+    "Spotify": "spotify",
+    "Palantir": "palantir",
+    "Octopus Energy": "octoenergy",
+    "Kraken": "kraken",
+    "Apollo Research": "apolloresearch",
+    "Bellwether": "bellwetheram-2",
+    "Wintermute": "wintermute-trading"
+  },
+  "ashby": {
+    "Ardea Partners": "ardea-partners",
+    "Balderton Capital": "balderton",
+    "OakNorth": "oaknorth",
+    "Plaid": "plaid",
+    "Ramp": "ramp",
+    "Moneybox": "moneybox",
+    "Funding Circle": "fundingcircle",
+    "Marshmallow": "marshmallow",
+    "Lendable": "lendable",
+    "OpenAI": "openai",
+    "Airwallex": "airwallex",
+    "ElevenLabs": "elevenlabs",
+    "Synthesia": "synthesia",
+    "Wayve": "wayve",
+    "Cohere": "cohere",
+    "Perplexity": "perplexity",
+    "Faculty": "faculty",
+    "Harvey": "harvey",
+    "Lovable": "lovable",
+    "Granola": "granola",
+    "Quantexa": "quantexa",
+    "Writer": "writer",
+    "Rogo": "rogo",
+    "Cognition": "cognition",
+    "Basecamp Research": "basecamp-research",
+    "Latent Labs": "latentlabs",
+    "Legora": "legora",
+    "Tractable": "tractable"
+  },
+  "smartrecruiters": {
+    "Stifel": "stifel",
+    "Evelyn Partners": "evelynpartners",
+    "Roland Berger": "rolandberger",
+    "Tikehau Capital": "tikehaucapital",
+    "Wise": "wise",
+    "Experian": "experian",
+    "Analysys Mason": "AnalysysMason1",
+    "EDF UK": "edf-uk"
+  },
+  "workable": {
+    "Capula": "capula-investment-management-ltd",
+    "Newton Europe": "newton-europe",
+    "Liberum": "liberum",
+    "Hayfin": "hayfin-capital-management",
+    "Interpath Advisory": "interpath-advisory"
+  },
+  "workday": {
+    "Morgan Stanley": "https://ms.wd5.myworkdayjobs.com/External",
+    "Barclays": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
+    "Citi": "https://citi.wd5.myworkdayjobs.com/2",
+    "Deutsche Bank": "https://db.wd3.myworkdayjobs.com/DBWebSite",
+    "Bank of America (lateral)": "https://ghr.wd1.myworkdayjobs.com/Lateral-US",
+    "MUFG": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers",
+    "TD Securities": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+    "PJT Partners": "https://pjtpartners.wd1.myworkdayjobs.com/Careers",
+    "Moelis": "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires",
+    "Perella Weinberg Partners": "https://wd1.myworkdaysite.com/recruiting/pwp/PWP_Experienced_Opportunities",
+    "Harris Williams": "https://pnc.wd5.myworkdayjobs.com/HarrisWilliams",
+    "Raymond James": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers",
+    "Berkeley Research Group": "https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site",
+    "Accenture": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+    "Blackstone": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers",
+    "Blackstone (campus)": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
+    "Bain Capital": "https://baincapital.wd1.myworkdayjobs.com/External_Public",
+    "Apollo": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers",
+    "ICG": "https://icg.wd3.myworkdayjobs.com/external_careers",
+    "3i": "https://3i.wd103.myworkdayjobs.com/Intern_Career",
+    "HarbourVest": "https://harbourvest.wd5.myworkdayjobs.com/HVP",
+    "Oaktree": "https://oaktree.wd1.myworkdayjobs.com/Oaktree",
+    "BlackRock": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
+    "abrdn": "https://abrdn.wd3.myworkdayjobs.com/abrdn",
+    "M&G": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential",
+    "Fidelity International": "https://fil.wd3.myworkdayjobs.com/001",
+    "Invesco": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+    "Wellington Management": "https://wellington.wd5.myworkdayjobs.com/External",
+    "Neuberger Berman": "https://nb.wd1.myworkdayjobs.com/nbcareers",
+    "State Street": "https://statestreet.wd1.myworkdayjobs.com/Global",
+    "Northern Trust": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+    "BP": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers",
+    "Diageo": "https://diageo.wd3.myworkdayjobs.com/Diageo_Careers",
+    "LSEG": "https://lseg.wd3.myworkdayjobs.com/Careers",
+    "CME Group": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers",
+    "Swift": "https://swift.wd3.myworkdayjobs.com/Join-Swift",
+    "Visa": "https://visa.wd5.myworkdayjobs.com/Visa",
+    "Mastercard": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+    "Houlihan Lokey (campus)": "https://hl.wd1.myworkdayjobs.com/Campus",
+    "Houlihan Lokey": "https://hl.wd1.myworkdayjobs.com/Corporate",
+    "Houlihan Lokey (lateral)": "https://hl.wd1.myworkdayjobs.com/Lateral",
+    "Guggenheim": "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers",
+    "Shell": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
+    "AIG": "https://aig.wd1.myworkdayjobs.com/aig"
+  },
+  "oracle": {
+    "JPMorgan Chase": "https://jpmc.fa.oraclecloud.com|CX_1001",
+    "Lazard": "https://icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers",
+    "Schroders": "https://ekbq.fa.em2.oraclecloud.com|CX_2",
+    "WTW": "https://eedu.fa.em3.oraclecloud.com|CX_1003"
+  },
+  "eightfold": {
+    "Millennium": "https://mlp.eightfold.ai|mlp.com",
+    "BCG": "https://bcg.eightfold.ai|bcg.com",
+    "PayPal": "https://paypal.eightfold.ai|paypal.com",
+    "AstraZeneca": "https://astrazeneca.eightfold.ai|astrazeneca.com"
+  },
+  "teamtailor": {
+    "Proxima": "proxima",
+    "Kepler Cheuvreux": "keplercheuvreux",
+    "Dare": "dare",
+    "Superscript": "superscript"
+  },
+  "pinpoint": {
+    "CIL Management Consultants": "cil"
+  },
+  "mckinsey": {
+    "McKinsey": "London"
+  },
+  "rendered": {
+    "Goldman Sachs": {
+      "urls": [
+        "https://higher.gs.com/results?LOCATION=London&sort=POSTED_DATE&page=1",
+        "https://higher.gs.com/results?LOCATION=London&sort=POSTED_DATE&page=2",
+        "https://higher.gs.com/results?LOCATION=London&sort=POSTED_DATE&page=3"
+      ],
+      "link": "^/roles/\\d+"
+    },
+    "Bain & Company": {
+      "urls": [
+        "https://www.bain.com/careers/find-a-role/?filters=offices(275)"
+      ],
+      "link": "/careers/find-a-role/position"
+    },
+    "eFinancialCareers": {
+      "urls": [
+        "https://www.efinancialcareers.co.uk/jobs/graduate/in-london",
+        "https://www.efinancialcareers.co.uk/jobs/analyst/in-london",
+        "https://www.efinancialcareers.co.uk/jobs/junior/in-london",
+        "https://www.efinancialcareers.co.uk/jobs/internship/in-london",
+        "https://www.efinancialcareers.co.uk/jobs/associate/in-london",
+        "https://www.efinancialcareers.co.uk/jobs/entry-level/in-london",
+        "https://www.efinancialcareers.co.uk/jobs/graduate/in-london?page=2",
+        "https://www.efinancialcareers.co.uk/jobs/analyst/in-london?page=2",
+        "https://www.efinancialcareers.co.uk/jobs/junior/in-london?page=2"
+      ],
+      "parser": "efc",
+      "wait_ms": 5000,
+      "gap_ms": 4000
+    },
+    "Gradcracker": {
+      "urls": [
+        "https://www.gradcracker.com/search/all-disciplines/graduate-jobs-in-london"
+      ],
+      "parser": "gradcracker",
+      "wait_ms": 5000
+    }
+  }
+}

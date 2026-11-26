@@ -1,0 +1,6 @@
+# The core (job feed, website, screening) uses only the Python standard library.
+# Optional: JavaScript-only pages and PDF rendering run in an isolated venv:
+#   uv venv jobfeed/.venv --python 3.12
+#   uv pip install --python jobfeed/.venv/bin/python -r requirements.txt
+#   jobfeed/.venv/bin/playwright install chrome   (or use an installed Google Chrome)
+scrapling[fetchers]==0.4.15

@@ -1,0 +1,14 @@
+name,url,note
+Bank of America (campus),https://campus.bankofamerica.com/,Oleeo tal.net bot check
+Nomura (campus),https://www.nomura.com/europe/careers/,Oleeo tal.net bot check
+Jefferies (campus),https://www.jefferies.com/careers/,Oleeo tal.net bot check
+Moelis (campus),https://www.moelis.com/careers/,Oleeo tal.net (experienced roles are automated)
+L.E.K. Consulting,https://www.lek.com/careers,Oleeo tal.net bot check
+Fidelity International (grad),https://careers.fidelityinternational.com/,Oleeo tal.net (other roles automated)
+Centerview / Kearney / OC&C,https://www.centerviewpartners.com/careers,Cloudflare bot check (also kearney.com/careers; occstrategy.com/en/careers)
+Carlyle / Citadel,https://www.carlyle.com/careers,Cloudflare bot check (also citadel.com/careers)
+Rothschild & Co,https://www.rothschildandco.com/en/careers/,no public job feed found
+Evercore,https://www.evercore.com/careers/,no public job feed found
+HSBC / UBS / BNP Paribas,https://www.hsbc.com/careers/students-and-graduates,custom sites (also ubs.com/careers; group.bnpparibas/en/careers)
+Societe Generale / RBC,https://careers.societegenerale.com/en,Taleo / Phenom
+Bright Network,https://www.brightnetwork.co.uk/graduate-jobs,Cloudflare check even in a normal browser; use its email alerts instead

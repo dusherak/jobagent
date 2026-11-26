@@ -1,0 +1,7 @@
+{
+  "_note": "Your basics. The website greets you by name; PDFs are named '<file_prefix> resume <Company> (tailored).pdf'.",
+  "name": "",
+  "file_prefix": "",
+  "city": "London",
+  "location_full": "London, United Kingdom"
+}

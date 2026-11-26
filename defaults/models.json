@@ -1,0 +1,7 @@
+{
+  "_note": "Which Claude model each job uses. haiku = cheapest, sonnet = balanced, opus = best.",
+  "screening": "sonnet",
+  "gmail": "sonnet",
+  "tailor": "opus",
+  "discovery": "haiku"
+}
